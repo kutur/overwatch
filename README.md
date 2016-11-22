@@ -14,10 +14,10 @@ Af hvaða fyrirtæki og hvenær var hann gerður ?
 Hann var gefin út af fyrirtækinu Blizzard Entertainment og kom út 24 mai 2016
 
 fyrir hverja er leikurinn ?
-Við munum segja að þessi leikur væri bara fyrir allan aldur og alla.
+Leikurinn er bannaður fyrir 12 og eldri, og við mundum segja að leikurinn væri  fyrir alla sem eru 12 og eldri.
 
 Hefur leikurinn breyst eitthvað?
-Hann hefur þróast nokkuð mikið
+Já, leikurinn er sirka uppfærður milli vikulega til mánaðalega.
 
 Overwatch skiftir leikmenn í tvö lið og í hverju lið eru 6 leikmenn
 Og hver leikmaður velur 1 af 23 persónur til að spila og hver persóna er einstök
