@@ -26,3 +26,4 @@ DPS sem eru damage dealers og reyna gerra eins mikið damage og hægt er,
  Defense  þeir verja leikmennina eða venda takmarkið,
 Tank sem er mjög svipað og Defense en eru með mjög mikið líf og eru fremstir í orustuni,
 Support eru þeir sem passar að liðið sitt deyr ekki með því að heala þá.
+test
