@@ -54,3 +54,7 @@ Bastion
 Bastion er partur af raceinu sem kallast omnics sem er samkallað af vélmenum
 Bastion getur breyt sjálfun sér í turret og þegar hann er komin með ultiið sitt þá breytir hann sjálfum sér í lítinn skriðdreka
 
+Overwatch saga
+Overwatch var alþjóðlegt friðargæslu sérsveit. sem hjálpaði bjarga heiminum á Omnic Crisis, og var stórt nafn á heimsvísu hetjuskapur og einingu. Það myndaði leynilegar rekstrarstjórann deild sem heitir Blackwatch. Að lokum, ásakanir sem Overwatch fékk gerðu hlutina verri sem leiddi til þess að overwatch var gert ólöglegt. Winston, einn af upprunalegu meðlimum, kom Overwatch aftur saman - af bókum - þegar annar Omnic Crisis kynnti sig. Þá treystað heimurinn ennþá ekki Overwatch. Hlutverk hennar er ólöglegt, en það þarf samt að gera það sem það var stofnað til að gera til að vernda heiminn - og hellingur af fólki, þar á meðal sumir fyrrverandi overwatch fulltrúar, langar til að stöðva það.
+
+
