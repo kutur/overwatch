@@ -7,28 +7,18 @@ Við höfum  valið leikinn Overwatch til að tala um í þessu hópverkefni.
 Hvernig leikur er þetta?
 Overwatch er liða skiftur multiplayer leikur sem er spilaður í fyrstu persónu.
 
-Af hvaða fyrirtæki og hvenær var hann gerður ? Hann var gefin út af fyrirtækinu Blizzard Entertainment og kom út 24 mai 2016 Þeir hafa Leikin bannaðan fyrir 12 og eldri, og við mundum segja að leikurinn væri fyrir alla sem eru 12 og eldri.
+Af hvaða fyrirtæki og hvenær var hann gerður ? 
+Hann var gefin út af fyrirtækinu Blizzard Entertainment og kom út 24 mai 2016 Þeir hafa Leikin bannaðan fyrir 12 og eldri, og við mundum segja að leikurinn væri fyrir alla sem eru 12 og eldri.
 
-hvernig hefur leikurinn þróast? og Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn? Overwatch er leikur sem er mjög virkur frá byrjun og til dags og er uppfærður milli tvegja vikkna til mánaðalega.
+hvernig hefur leikurinn þróast? og Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn?
+Overwatch er leikur sem er mjög virkur frá byrjun og til dags og er uppfærður milli tvegja vikkna til mánaðalega.
 
-Overwatch skiftir leikmenn í tvö lið og í hverju lið eru 6 leikmenn Og hver leikmaður velur 1 af 23 persónur til að spila og hver persóna er einstök Og þessar persónur skiftast í 4 flokka sem eru: DPS sem eru damage dealers og reyna gerra eins mikið damage og hægt er, Leik menn í flokkinum Defense þeir verja leikmennina eða venda takmarkið, Tank sem er mjög svipað og Defense en eru með mjög mikið líf og eru fremstir í orustuni, Ef maður mundi velja leikman úr support þá mundi maður þurfa að hjálpa liðinu með göldrum eða byssum sem fylgir með leikmanninum.
 
-Overwatch skiftir leikmenn í tvö lið og í hverju lið eru 6 leikmenn
-Og hver leikmaður velur 1 af 23 persónur til að spila og hver persóna er einstök
-Og þessar persónur skiftast í 4 flokka sem eru:
-DPS sem eru damage dealers og reyna gerra eins mikið damage og hægt er,
- Defense  þeir verja leikmennina eða venda takmarkið,
-Tank sem er mjög svipað og Defense en eru með mjög mikið líf og eru fremstir í orustuni,
-Support eru þeir sem passar að liðið sitt deyr ekki með því að heala þá.
 
 
 Overwatch saga
 Overwatch var alþjóðlegt friðargæslu sérsveit. sem hjálpaði bjarga heiminum á Omnic Crisis, og var stórt nafn á heimsvísu hetjuskapur og einingu. Það myndaði leynilegar rekstrarstjórann deild sem heitir Blackwatch. Að lokum, ásakanir sem Overwatch fékk gerðu hlutina verri sem leiddi til þess að overwatch var gert ólöglegt. Winston, einn af upprunalegu meðlimum, kom Overwatch aftur saman - af bókum - þegar annar Omnic Crisis kynnti sig. Þá treystað heimurinn ennþá ekki Overwatch. Hlutverk hennar er ólöglegt, en það þarf samt að gera það sem það var stofnað til að gera til að vernda heiminn - og hellingur af fólki, þar á meðal sumir fyrrverandi overwatch fulltrúar, langar til að stöðva það.
 
-Overwatch
-Hæ, við heitum Eyjólfur, Kaj, Þórður.
-Við höfum  valið leikinn Overwatch til að tala um í þessu hópverkefni.
-Í þessu verkefni munum við  svara nokkrun spurningum um hann
 
 
 
